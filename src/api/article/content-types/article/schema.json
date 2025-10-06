@@ -70,6 +70,14 @@
         "Draft",
         "Published"
       ]
+    },
+    "tags": {
+      "type": "json",
+      "required": true
+    },
+    "key_takeaways": {
+      "type": "json",
+      "required": true
     }
   }
 }
